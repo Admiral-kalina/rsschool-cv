@@ -2,8 +2,8 @@
 
 ****************************************************************
 
-### **Contacts:**
-* Discord: MRKS77
+## **Contacts:**
+* Discord: 
 * E-mail: kalinamono@gmail.com
 * Tel: +3809687979958
 
@@ -11,7 +11,7 @@
 
 I learn in **RSScgool!**
 
-##### **Code Example:**
+### **Code Example:**
 
 ```
 prm.addEventListener('click',e=>{
@@ -56,7 +56,7 @@ prm.addEventListener('click',e=>{
 })
 ```
 
-#### **Work experiense:**
+### **Work experiense:**
 *Nothing yet*
 
 ### **Education and courses:**
@@ -66,6 +66,6 @@ prm.addEventListener('click',e=>{
 4. FreeCodeCamp Responsive Web Design https://www.freecodecamp.org
 5. FreeCodeCamp JavaScript Algorithms and Data Structures https://www.freecodecamp.org
 
-#### **Language:**
+### **Language:**
 
 English level - A2
