@@ -3,7 +3,7 @@
 ****************************************************************
 
 ## **Contacts:**
-* Discord: 
+* Discord: Kaluna (Admiral-kalina)
 * E-mail: kalinamono@gmail.com
 * Tel: +3809687979958
 
