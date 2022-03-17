@@ -9,7 +9,7 @@
 
 #### **About myself:**
 
-I learn in **RSScgool!**
+I learn in **RSSchool!**
 
 ### **Code Example:**
 
